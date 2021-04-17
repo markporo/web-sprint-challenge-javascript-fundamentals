@@ -233,7 +233,7 @@ class CubeMaker extends CuboidMakerTwo {
 
 const cubeThree = new CubeMaker({ length: 5, width: 5, height: 5, side: 5 });
 
-console.log(cubeThree.cubeSurfaceArea(), "::surface area for cube");
+//console.log(cubeThree.cubeSurfaceArea(), "::surface area for cube");
 console.log(cubeThree.cubeVolume(), "::volume for cube");
 // why isn't codegrade working
 
